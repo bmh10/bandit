@@ -60,5 +60,18 @@ cat data8.bin | gzip -d
 #pwd: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 
 #13
-
+cat sshkey.private
 #pwd: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+#14
+cat /etc/bandit_pass/bandit14
+telnet localhost 30000 # then submit pwd
+#pwd: -i sshkey.private
+
+#15
+openssl s_client -ign_eof -connect localhost:30001 # then submit pwd
+#pwd: BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+#16
+
+#pwd: cluFn7wTiGryunymYOu4RcffSxQluehd
