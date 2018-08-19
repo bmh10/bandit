@@ -17,4 +17,10 @@ cat inhere/.hidden #pwd: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 cat inhere/-file07 #pwd: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
 #5
-#pwd:koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+cat inhere/maybehere07/.file2 #pwd: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+#6
+cat ./var/lib/dpkg/info/bandit7.password #pwd: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+#7
+#pwd: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
