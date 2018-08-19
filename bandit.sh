@@ -73,5 +73,14 @@ openssl s_client -ign_eof -connect localhost:30001 # then submit pwd
 #pwd: BfMYroe26WYalil77FoDi9qh59eK5xNr
 
 #16
-
+nmap -p31000-32000 localhost
+openssl s_client -connect localhost:31790 # the sumbit pwd
 #pwd: cluFn7wTiGryunymYOu4RcffSxQluehd
+
+#17
+diff passwords.old passwords.new
+#pwd: ssh key from previous
+
+#18 
+
+#pwd: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
