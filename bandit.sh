@@ -82,5 +82,32 @@ diff passwords.old passwords.new
 #pwd: ssh key from previous
 
 #18 
-
+ssh bandit.labs.overthewire.org -l bandit18 -p 2220 cat readme
 #pwd: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+
+#19
+./bandit20-do cat /etc/bandit_pass/bandit20
+#pwd: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+
+#20
+echo GbKksEFF4yrVs6il55v6gwY5aVje5f0j | nc -l -p 8081
+./suconnect 8081
+#pwd: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+
+#21
+cat /etc/cron.d/cronjob_bandit22
+cat /usr/bin/cronjob_bandit22.sh
+cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+#pwd: gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+
+#22
+cd /usr/bin
+cat cronjob_bandit23.sh
+echo I am user bandit23 | md5sum | cut -d ' ' -f 1
+cat /tmp/8ca319486bfbbc3663ea0fbe81326349
+#pwd: Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+
+#23
+cat /usr/bin/cronjob_bandit24.sh
+
+#pwd: jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
