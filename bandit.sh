@@ -117,9 +117,16 @@ chmod -R 777 /tmp/snoopy123
 cp a.sh /var/spool/bandit24
 #Wait for cron
 cat /tmp/snnopy123/pass.txt
-
 #pwd: jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
 
 #24
-
+passwd="UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ"
+for a in {0..9}{0..9}{0..9}{0..9}
+do
+  echo $passwd' '$a | nc localhost 30002 >> result &
+done
 #pwd: UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+
+#25
+
+#pwd: uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
