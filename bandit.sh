@@ -133,5 +133,10 @@ done
 #pwd: uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
 
 #26
-
+# get shell from vim via :set shell sh=/bin/bash then :sh
+./bandit27-do cat /etc/bandit_pass/bandit27
 #pwd: 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+
+#27
+
+#pwd: 3ba3118a22e93127a4ed485be72ef5ea
