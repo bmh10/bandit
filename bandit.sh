@@ -128,5 +128,10 @@ done
 #pwd: UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
 
 #25
-
+# ssh bandit.labs.overthewire.org -l bandit26 -p 2220 -i bandit26.sskey
+# use small window, use vim to view /etc/bandit_pass/bandit26
 #pwd: uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+
+#26
+
+#pwd: 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
