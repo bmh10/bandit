@@ -153,5 +153,13 @@ cat README
 #pwd: 0ef186ac70e04ea33b4c1853d2526fa2
 
 #29
-
+mkdir /tmp/snoopy29
+git clone ssh://bandit29-git@localhost/home/bandit29-git/repo /tmp/snoopy29
+cd /tmp/snoopy29
+git checkout dev
+cat README
 #pwd: bbc96594b4e001778eee9975372716b2
+
+#30
+
+#pwd: 5b90576bedb2cc04c86a9e924ce42faf
