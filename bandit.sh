@@ -161,5 +161,14 @@ cat README
 #pwd: bbc96594b4e001778eee9975372716b2
 
 #30
-
+mkdir /tmp/snoopy30
+git clone ssh://bandit30-git@localhost/home/bandit30-git/repo /tmp/snoopy30
+cd /tmp/snoopy30
+git ls-remote
+git tag
+git show secret
 #pwd: 5b90576bedb2cc04c86a9e924ce42faf
+
+#31
+
+#pwd: 47e603bb428404d265f59c42920d81e5
