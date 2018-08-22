@@ -138,5 +138,11 @@ done
 #pwd: 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
 
 #27
-
+mkdir /tmp/snoopy123
+git clone ssh://bandit27-git@localhost/home/bandit27-git/repo snoopy123
+cat /tmp/snoopy123/README
 #pwd: 3ba3118a22e93127a4ed485be72ef5ea
+
+#28
+
+#pwd: 0ef186ac70e04ea33b4c1853d2526fa2
