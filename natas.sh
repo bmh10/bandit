@@ -16,5 +16,17 @@
 #pwd: sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
 
 #4
-
+#Spoof referred using plugin
 #pwd: Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
+
+#5
+# change loggedIn cookie
+#pwd: iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
+
+#6
+# Find secret at includes/secret.inc
+#pwd: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
+
+#7
+
+#pwd: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
