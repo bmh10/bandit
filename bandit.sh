@@ -180,5 +180,12 @@ git push
 #pwd: 47e603bb428404d265f59c42920d81e5
 
 #32
-
+./uppershell
+$0
+set -p
+cat /etc/bandit_pass/bandit33
 #pwd: 56a9bf19c63d650ce78e6ec0354ee45e
+
+#33
+
+#pwd: c9c3199ddf4121b10cf581a98d51caee
