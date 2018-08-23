@@ -170,5 +170,15 @@ git show secret
 #pwd: 5b90576bedb2cc04c86a9e924ce42faf
 
 #31
-
+mkdir /tmp/snoopy31
+git clone ssh://bandit31-git@localhost/home/bandit31-git/repo /tmp/snoopy31
+cd /tmp/snoopy31
+echo "May I come in?" > key.txt
+echo "" > .gitignore
+git commit -am "add key.txt"
+git push
 #pwd: 47e603bb428404d265f59c42920d81e5
+
+#32
+
+#pwd: 56a9bf19c63d650ce78e6ec0354ee45e
