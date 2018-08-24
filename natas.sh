@@ -28,5 +28,9 @@
 #pwd: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 
 #7
-
+#go to http://natas7.natas.labs.overthewire.org/index.php?page=/etc/natas_webpass/natas8
 #pwd: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
+
+#8
+
+#pwd: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
