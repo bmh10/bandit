@@ -44,8 +44,16 @@
 #9
 # PHP injection
 # search for '& cat /etc/natas_webpass/natas10'
+# this terminates the dictionary grep and cats the pwd
 #pwd: W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
 
 #10
-
+# PHP injection
+# search for '1 /etc/natas_webpass/natas11'
+# this does the grep on both the original dictionary file
+# and the specified pwd file
 #pwd: nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
+
+#11
+
+#pwd: U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
