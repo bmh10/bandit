@@ -32,5 +32,15 @@
 #pwd: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
 
 #8
+# Run following PHP:
+#function decodeSecret($secret) {
+#  return base64_decode(strrev(hex2bin($secret)));
+#}
+
+#print(decodeSecret("3d3d516343746d4d6d6c315669563362"));
 
 #pwd: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
+
+#9
+
+#pwd: W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
