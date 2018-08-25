@@ -1,4 +1,5 @@
-#0
+#
+
 # view page source
 #pwd: natas0
 
@@ -55,5 +56,11 @@
 #pwd: nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
 
 #11
+# Original_Data XOR Encrypted_Data = KEY
+# Given key generate the correct cookie val:
+#  ClVLIh4ASCsCBE8lAxMacFMOXTlTWxooFhRXJh4FGnBTVF4sFxFeLFMK
+#pwd: U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoKi
 
-#pwd: U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
+#12
+
+#pwd: EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
