@@ -11,3 +11,7 @@ cat /etc/leviathan_pass/leviathan2
 #2
 
 #pwd: ougahZi8Ta
+
+#3
+
+#pwd: Ahdiemoo1j
