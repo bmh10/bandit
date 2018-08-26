@@ -16,5 +16,12 @@ ln -sfn /etc/leviathan_pass/leviathan3 l3
 #pwd: ougahZi8Ta
 
 #3
-
+ltrace ./level3
+# pwd is snlprintf
+whoami # gives leviathan4
+cat /etc/leviathan_pass/leviathan4
 #pwd: Ahdiemoo1j
+
+#4 
+
+#pwd: vuH0coox6m
