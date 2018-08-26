@@ -38,5 +38,14 @@ cd ~
 #pwd: Tith4cokei
 
 #6
-
+objdump -d leviathan6
+#find ref to 0x1bd3 which gives code 7123
+./leviathan6 7123
+whoami
+cat /etc/leviathan_pass/leviathan7
+# alternative is brute force
 #pwd: UgaoFee4li
+
+#7
+
+#pwd: ahy7MaeBo9
