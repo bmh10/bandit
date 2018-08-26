@@ -23,5 +23,13 @@ cat /etc/leviathan_pass/leviathan4
 #pwd: Ahdiemoo1j
 
 #4 
-
+ls -a
+cd .trash
+ltrace ./bin
+./bin
+# use binary to ascii converter to get next pwd
 #pwd: vuH0coox6m
+
+#5
+
+#pwd: Tith4cokei
