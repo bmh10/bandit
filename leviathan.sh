@@ -31,5 +31,12 @@ ltrace ./bin
 #pwd: vuH0coox6m
 
 #5
-
+cd /tmp
+ln -sfn /etc/leviathan_pass/leviathan6 file.log
+cd ~
+./leviathan5
 #pwd: Tith4cokei
+
+#6
+
+#pwd: UgaoFee4li
